@@ -1,3 +1,6 @@
+https://github.com/wtmsp/meetings/blob/master/banner/wtmsp_banner.jpeg
+![Women Techmakers São Paulo](https://raw.githubusercontent.com/wtmsp/meetings/master/banner/wtmsp_banner.jpeg)
+
 # Meetings Women Techmakers São Paulo
 O Women Techmakers São Paulo é uma comunidade independente, dentro do ([GDG São Paulo](http://gdgsp.org/)), que promove a visibilidade feminina na área de tecnologia.
 
