@@ -1,4 +1,4 @@
-[WTM](https://raw.githubusercontent.com/wtmsp/meetings/master/banner/logo_wtm.png)
+![WTM](https://raw.githubusercontent.com/wtmsp/meetings/master/banner/logo_wtm.png)
 
 # Eventos de 2015 :two_hearts:
 
