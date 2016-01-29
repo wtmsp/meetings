@@ -9,18 +9,19 @@ Realizaremos 4 eventos maiores anualmente, sendo eles em:
 * Agosto
 * Novembro (Devfest :heart:)
 
-Fiquem ligados que divulgaremos mais detalhes assim que possível!
+Fiquem ligadas que divulgaremos mais detalhes assim que possível!
 
 ## Encontros
 Os nossos encontros (ou meetups) serão divulgados no grupo do GDG-SP no site do meetup.
+:girl: Geralmente os encontros não serão exclusivos para mulheres, porém elas têm prioridade pela ordem de inscrição.
 ([http://www.meetup.com/GDG-SP/](http://www.meetup.com/GDG-SP/))
 
 ## Palestras
 Sempre que possível disponibilizaremos o material das palestras no nosso Github. :star:
 
-  ### Gostaria de Palestrar?
-  Envie um email para ([organizers@gdgsp.org](mailto:organizers@gdgsp.org)) com o assunto que gostaria de mostrar para a galera!
-  E não se preocupe se achar o conteúdo muito simples, queremos incentivar todas as integrantes a participar e palestrar!!   :stuck_out_tongue_closed_eyes:
+### Gostaria de Palestrar?
+Envie um email para ([organizers@gdgsp.org](mailto:organizers@gdgsp.org)) com o assunto que gostaria de mostrar para a galera!
+E não se preocupe se achar o conteúdo muito simples, queremos incentivar todas as integrantes a participar e palestrar!!   :stuck_out_tongue_closed_eyes:
 
 ## Quer ajudar a organizar um encontro?
 Como não temos um lugar fixo para os encontros, caso você saiba de algum lugar onde possamos realizar um meetup, entre em contato com a gente pelo Meetup ([GDG-SP](http://www.meetup.com/GDG-SP/)) ou pelo nosso email ([organizers@gdgsp.org](mailto:organizers@gdgsp.org)) :smile:
