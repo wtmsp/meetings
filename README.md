@@ -28,6 +28,6 @@ Como não temos um lugar fixo para os encontros, caso você saiba de algum lugar
 
 Durante a semana, os horários mais indicados são das 19h às 21h30, lembrando que daremos preferência aos lugares de fácil acesso.
 
-### Nos acompanhem nas redes sociais: :blue_heart:
+## Nos acompanhem nas redes sociais: :blue_heart:
 * [Twitter](https://twitter.com/wtmsaopaulo)
 * [Medium](https://medium.com/women-techmakers-s%C3%A3o-paulo)
