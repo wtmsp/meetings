@@ -4,4 +4,4 @@
 
 | Link | Data | Tema | Local |
 | --- | --- | --- | --- |
-| [Meetup GDG-SP](http://www.meetup.com/GDG-SP/events/228358153/) | 19/01/2016  | Diversidade  | Viva Real |
+| [Meetup GDG-SP](http://www.meetup.com/GDG-SP/events/228358153/) | 19/02/2016  | Vamos falar de Comunidades  | Viva Real |
