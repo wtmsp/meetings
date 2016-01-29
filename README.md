@@ -21,9 +21,9 @@ Os nossos encontros (ou meetups) serão divulgados no grupo do GDG-SP no site do
 Sempre que possível disponibilizaremos o material das palestras no nosso Github. :octocat:
 
 ### Gostaria de Palestrar?
-  Envie um email para ([organizers@gdgsp.org](mailto:organizers@gdgsp.org)) com o assunto que gostaria de mostrar para a galera!
-  
-  E não se preocupe se achar o conteúdo muito simples, queremos incentivar todas as integrantes a participar e palestrar!!   :stuck_out_tongue_closed_eyes:
+>Envie um email para ([organizers@gdgsp.org](mailto:organizers@gdgsp.org)) com o assunto que gostaria de mostrar para a galera!
+> 
+>E não se preocupe se achar o conteúdo muito simples, queremos incentivar todas as integrantes a participar e palestrar!!   :stuck_out_tongue_closed_eyes:
 
 ## Quer ajudar a organizar um encontro?
 Como não temos um lugar fixo para os encontros, caso você saiba de algum lugar onde possamos realizar um meetup, entre em contato com a gente pelo Meetup ([GDG-SP](http://www.meetup.com/GDG-SP/)) ou pelo nosso email ([organizers@gdgsp.org](mailto:organizers@gdgsp.org)) :smile:
