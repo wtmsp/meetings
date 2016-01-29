@@ -1,4 +1,3 @@
-https://github.com/wtmsp/meetings/blob/master/banner/wtmsp_banner.jpeg
 ![Women Techmakers São Paulo](https://raw.githubusercontent.com/wtmsp/meetings/master/banner/wtmsp_banner.jpeg)
 
 # Meetings Women Techmakers São Paulo
