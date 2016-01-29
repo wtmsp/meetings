@@ -1,10 +1,10 @@
 # Meetings Women Techmakers São Paulo
 O Women Techmakers São Paulo é uma comunidade independente, dentro do ([GDG São Paulo](http://gdgsp.org/)), que promove a visibilidade feminina na área de tecnologia.
 
-Periodicamente realizamos encontros e eventos para a comunidade.
+Periodicamente realizamos *encontros e eventos para a comunidade*.
 
 ## Eventos
-Realizaremos 4 eventos maiores anualmente, sendo eles em:
+Realizaremos **4** eventos maiores anualmente, sendo eles em:
 * Fevereiro
 * Maio
 * Agosto
@@ -14,7 +14,7 @@ Fiquem ligadas que divulgaremos mais detalhes assim que possível!
 
 ## Encontros
 Os nossos encontros (ou meetups) serão divulgados no grupo do GDG-SP no site do meetup.
-:girl: Geralmente os encontros não serão exclusivos para mulheres, porém elas têm prioridade pela ordem de inscrição.
+:girl: Geralmente os encontros **não serão exclusivos para mulheres**, porém elas têm **prioridade** pela ordem de inscrição.
 ([http://www.meetup.com/GDG-SP/](http://www.meetup.com/GDG-SP/))
 
 ## Palestras
