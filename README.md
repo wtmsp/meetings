@@ -17,7 +17,6 @@ Fiquem ligadas que divulgaremos mais detalhes assim que possível!
 ## Encontros
 Os nossos encontros (ou meetups) serão divulgados no grupo do GDG-SP no site do meetup.
 :girl: Geralmente os encontros **não serão exclusivos para mulheres**, porém elas têm **prioridade** pela ordem de inscrição.
-[http://www.meetup.com/GDG-SP/](http://www.meetup.com/GDG-SP/)
 
 ## Palestras
 Sempre que possível disponibilizaremos o material das palestras no nosso Github. :octocat:
